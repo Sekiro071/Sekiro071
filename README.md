@@ -1,6 +1,6 @@
 <!-- Replace this path with the uploaded banner's repository path -->
 <p align="center">
-  <img src="[assets/profile-banner.png](https://github.com/Sekiro071/Sekiro071/blob/main/banner.jpg)" width="100%" alt="AI and Machine Learning banner" />
+  <img src="banner.jpg" width="100%" alt="AI and Machine Learning banner" />
 </p>
 
 <h1 align="center">Hey, I'm Shreyansh Pandey 👋</h1>
