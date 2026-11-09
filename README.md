@@ -1,6 +1,6 @@
 <!-- Replace this path with the uploaded banner's repository path -->
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="AI and Machine Learning banner" />
+  <img src="assets/profile-banner.png" width="100%" alt="AI and Machine Learning banner" />
 </p>
 
 <h1 align="center">Hey, I'm Shreyansh Pandey 👋</h1>
@@ -90,7 +90,3 @@ Developed a content-based recommendation system using TF-IDF vectorization and c
 <p align="center">
   <i>Always learning. Always building.</i>
 </p>
-
-
-
-also add fastapi to this readme of mine please
